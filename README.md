@@ -1,1 +1,1 @@
-This  showcases the data analytics projects I have worked on for CodTech Data Analytics Internship, demonstrating skills in big data processing, machine learning, dashboard development and natural language processing (NLP).
+This  showcases the data analytics projects I have worked on for CodTech Data Analytics Internship demonstrating skills in big data processing, machine learning, dashboard development and natural language processing (NLP).
